@@ -35,3 +35,7 @@
 + ### Cadastrar funcionário
 
 ![8](https://user-images.githubusercontent.com/64045736/89698712-0d4fa080-d8f9-11ea-8d7d-88ca127edef8.png)
+
++ ### Editar funcionário
+
+![9](https://user-images.githubusercontent.com/64045736/89698746-2eb08c80-d8f9-11ea-9961-c4866a3243fa.png)
