@@ -16,7 +16,7 @@
 
 ![3](https://user-images.githubusercontent.com/64045736/89697138-2bb19e00-d8f1-11ea-95be-886344b2a61f.png)
 
-+ ### Aqui temos a tela de lista do cliente e mostrando as informações com o botão de deletar cliente
++ ### Aqui temos a tela de lista dos clientes e mostrando as informações com o botão de deletar cliente
 
 ![4](https://user-images.githubusercontent.com/64045736/89697222-96fb7000-d8f1-11ea-8e71-9d034395521b.png)
 
@@ -28,7 +28,7 @@
 
 ![6](https://user-images.githubusercontent.com/64045736/89698635-a5995580-d8f8-11ea-87df-e1cf0582293c.png)
 
-+ ### Aqui temos a tela de lista do funcionários e mostrando as informações com o botão de deletar funcionário
++ ### Aqui temos a tela de lista dos funcionários e mostrando as informações com o botão de deletar funcionário
 
 ![7](https://user-images.githubusercontent.com/64045736/89698666-cfeb1300-d8f8-11ea-9870-7b2d223761e3.png)
 
@@ -39,3 +39,7 @@
 + ### Editar funcionário
 
 ![9](https://user-images.githubusercontent.com/64045736/89698746-2eb08c80-d8f9-11ea-9961-c4866a3243fa.png)
+
++ ### Aqui temos a tela de lista dos quartos e mostrando as informações com o botão de deletar quarto
+
+![10](https://user-images.githubusercontent.com/64045736/89698771-50117880-d8f9-11ea-90f9-93f6822f9d8c.png)
