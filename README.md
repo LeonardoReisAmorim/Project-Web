@@ -55,3 +55,7 @@
 + ### Aqui temos a lista de reservas feitas
 
 ![13](https://user-images.githubusercontent.com/64045736/89698893-13924c80-d8fa-11ea-88bf-3ffee975409d.png)
+
++ ### Ao clicar em finalizar, abre uma mensagem de confirmação
+
+![14](https://user-images.githubusercontent.com/64045736/89698928-476d7200-d8fa-11ea-8e85-869dc130342d.png)
