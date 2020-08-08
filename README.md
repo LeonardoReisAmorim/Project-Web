@@ -31,3 +31,7 @@
 + ### Aqui temos a tela de lista do funcionários e mostrando as informações com o botão de deletar funcionário
 
 ![7](https://user-images.githubusercontent.com/64045736/89698666-cfeb1300-d8f8-11ea-9870-7b2d223761e3.png)
+
++ ### Cadastrar funcionário
+
+![8](https://user-images.githubusercontent.com/64045736/89698712-0d4fa080-d8f9-11ea-8d7d-88ca127edef8.png)
