@@ -51,3 +51,7 @@
 + ### Editar quarto
 
 ![12](https://user-images.githubusercontent.com/64045736/89698870-efcf0680-d8f9-11ea-9b28-073393be4824.png)
+
++ ### Aqui temos a lista de reservas feitas
+
+![13](https://user-images.githubusercontent.com/64045736/89698893-13924c80-d8fa-11ea-88bf-3ffee975409d.png)
