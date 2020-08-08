@@ -64,4 +64,4 @@
 
 ![15](https://user-images.githubusercontent.com/64045736/89698992-91565800-d8fa-11ea-8d38-6e7ba25ba9bf.png)
 
-Finalizando assim o trabalho
+Finalizando assim o trabalho.
