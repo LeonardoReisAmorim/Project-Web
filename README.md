@@ -11,3 +11,7 @@
 + ### Quando o botão for clicado, aparecerá esta tela
 
 ![2](https://user-images.githubusercontent.com/64045736/89697089-fad16900-d8f0-11ea-8005-f4642dfcd19e.png)
+
++ ### Quando inserir os dados e clicar em enviar, o quarto será reservado, estando um quarto restante
+
+![3](https://user-images.githubusercontent.com/64045736/89697138-2bb19e00-d8f1-11ea-95be-886344b2a61f.png)
