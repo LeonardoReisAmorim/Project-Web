@@ -47,3 +47,7 @@
 + ### Cadastrar quarto
 
 ![11](https://user-images.githubusercontent.com/64045736/89698801-86e78e80-d8f9-11ea-9ff1-95885f3d6851.png)
+
++ ### Editar quarto
+
+![12](https://user-images.githubusercontent.com/64045736/89698870-efcf0680-d8f9-11ea-9b28-073393be4824.png)
