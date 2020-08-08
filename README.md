@@ -43,3 +43,7 @@
 + ### Aqui temos a tela de lista dos quartos e mostrando as informações com o botão de deletar quarto
 
 ![10](https://user-images.githubusercontent.com/64045736/89698771-50117880-d8f9-11ea-90f9-93f6822f9d8c.png)
+
++ ### Cadastrar quarto
+
+![11](https://user-images.githubusercontent.com/64045736/89698801-86e78e80-d8f9-11ea-9ff1-95885f3d6851.png)
