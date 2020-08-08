@@ -23,3 +23,7 @@
 + ### Cadastrar cliente
 
 ![5](https://user-images.githubusercontent.com/64045736/89698595-7682e400-d8f8-11ea-8b01-e6deccd3070b.png)
+
++ ### Editar cliente
+
+![6](https://user-images.githubusercontent.com/64045736/89698635-a5995580-d8f8-11ea-87df-e1cf0582293c.png)
